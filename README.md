@@ -1,3 +1,3 @@
 # aws-serverless-apllication
-# Precondition
+   # Precondition
    npm install
