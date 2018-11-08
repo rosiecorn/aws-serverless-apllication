@@ -24,7 +24,7 @@ custom:
 provider:
   name: aws
   runtime: nodejs8.10
-  profile: adminuser
+  profile: **
   region: us-east-2
   stage: qa
   environment: ${self:custom.settings.${self:custom.stage}}
